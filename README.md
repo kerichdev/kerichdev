@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on quandale dingle
 - 🤔 I’m looking for help with quandale dingle
 - 💬 Ask me about quandale dingle
-- 📫 How to reach me: quandale.dingle
+- 📫 How to reach me: [quandale.dingle](https://raw.githubusercontent.com/kerichdev/kerichdev/main/quandale.dingle)
 - 😄 Pronouns: quandale/dingle
 - ⚡ Fun fact: quandale dingle here
 
