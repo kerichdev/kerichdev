@@ -18,4 +18,4 @@ I don't do all that much in GitHub *yet*. But I, probably, eventually will.
 
 Shell, Python, and C is what I truly love. Well, maybe not Python, it's out of the bunch.
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kerichdev&title_color=89b4fa&text_color=cdd6f4&icon_color=89b4fa&bg_color=1e1e2e&border_color=89b4fa&compact=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kerichdev&title_color=89b4fa&text_color=cdd6f4&icon_color=89b4fa&bg_color=1e1e2e&border_color=89b4fa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
