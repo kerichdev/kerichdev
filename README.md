@@ -1,7 +1,6 @@
-# Hi, I'm keri.
+![Hi, I'm Keri!](https://github.com/kerichdev/kerichdev/blob/actualpage/banner_dark.png)
 
 - Not even yet a student. 🏫
-- Making the world better, one line at a time. 💡
 - Arch Linux for the win. :trollface:
 - Wireless tech is cool. 📶
 #
