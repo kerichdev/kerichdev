@@ -5,7 +5,7 @@
 - Wireless tech is cool. 📶
 #
 
-Im somewhat of a do-everything, I code, I design, I game, I manage, and everything inbetween. 
+I'm somewhat of a do-everything, I code, I design, I game, I manage, and everything inbetween. 
 
 [![Contact Keri in Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&color=26A5E4)](https://t.me/keri64) [![Keri's Last.FM](https://img.shields.io/badge/LAST.FM-red?style=for-the-badge&logo=last.fm&color=D51007)](https://www.last.fm/user/kerichuu)
 #
