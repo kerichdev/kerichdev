@@ -7,11 +7,11 @@
 </p>
 
 #
-<!---
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=kerichdev&show_icons=true&title_color=89b4fa&text_color=cdd6f4&icon_color=89b4fa&bg_color=1e1e2e&border_color=89b4fa&include_all_commits=true">
 </p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerichdev&title_color=89b4fa&text_color=cdd6f4&icon_color=89b4fa&bg_color=1e1e2e&border_color=89b4fa&layout=compact">
 </p>
---->
+
