@@ -2,8 +2,9 @@
 ![My interests!](https://github.com/kerichdev/kerichdev/blob/actualpage/subbanner.png)
 
 <p align="center">
-  <a href="https://t.me/keri64"> <img src="https://github.com/kerichdev/kerichdev/blob/actualpage/button_telegram.png" width="49%" /> </a>
-  <a href="https://www.last.fm/user/kerichuu"> <img src="https://github.com/kerichdev/kerichdev/blob/actualpage/button_lastfm.png" width="49%" />  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,python,js,bash,docker,vscode,linux,arch,arduino" />
+  </a>
 </p>
 
 #
