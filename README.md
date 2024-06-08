@@ -17,7 +17,3 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerichdev&title_color=89b4fa&text_color=cdd6f4&icon_color=89b4fa&bg_color=1e1e2e&border_color=89b4fa&layout=compact">
 </p>
-
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 300vw; opacity: 0.8; background: url('https://raw.githubusercontent.com/kerichdev/kerichdev/actualpage/line_icons.png
-');]{x0000}$}
