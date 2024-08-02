@@ -6,8 +6,9 @@
     <img src="https://skillicons.dev/icons?i=cpp,python,js,bash,docker,vscode,linux,arch,arduino" />
   </a>
 </p>
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/303835545317015552?bg=1e1e2e)](https://discord.com/users/303835545317015552)
+<p align="center">
+  <img src="https://lanyard.cnrad.dev/api/303835545317015552?bg=1e1e2e" />
+</p>
 
 #
 
