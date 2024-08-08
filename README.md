@@ -23,7 +23,7 @@
   👇 me in discord rn
 </h3>
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/303835545317015552?bg=1e1e2e" />
+  <img src="https://lanyard.cnrad.dev/api/303835545317015552?bg=000" />
 </p>
 <br>
 <h3 align="center">
@@ -31,8 +31,8 @@
 </h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kerichdev&show_icons=true&title_color=89b4fa&text_color=cdd6f4&icon_color=89b4fa&bg_color=1e1e2e&border_color=89b4fa&include_all_commits=true">
+<img src="https://github-readme-stats.vercel.app/api?username=kerichdev&show_icons=true&title_color=00f&text_color=fff&icon_color=00f&bg_color=f00&border_color=00f&include_all_commits=true">
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerichdev&title_color=89b4fa&text_color=cdd6f4&icon_color=89b4fa&bg_color=1e1e2e&border_color=89b4fa&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerichdev&title_color=00f&text_color=fff&icon_color=00f&bg_color=f00&border_color=00f&layout=compact">
 </p>
